@@ -14,7 +14,7 @@ Github runners:
 
 Authentication methods:
 - Azure: OpenID Connect  
-- GC: service OpenID Connect  
+- GC: OpenID Connect  
 - on-prem (TODO)  
 
 Terraform state will be kept in Terraform Cloud (instead of Azure or GC storage).  
