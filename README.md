@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > GC Function doesn't need Terraform created infra, code is deployed directy to Cloud Run Services Function. For more details please check the repo: [IaC-SDWAN-config-generator](https://github.com/pawel80-dev/IaC-SDWAN-config-generator)  
+> Azure Function Terraform code was also move to above repo.  
 
 Terraform, build and deploy Function type of service in Azure and on-prem infra.  
 Each deployment is in a separate workflow (.yaml) file.  
